@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Unal
+### Hi there 👋, My name is Unal
 I currently study electrical electronics engineering at Karabuk University. I always try to learn new languages to improve myself 
 
 Skills: C# / Python / C / HTML&CSS
