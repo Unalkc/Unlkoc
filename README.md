@@ -3,9 +3,13 @@ I currently study electrical electronics enginerring at karabuk university. I al
 
 Some languages i have experienced
 
-*Pyhton 
+*Python
+
 *C
-*C#
+
+
+*C
+
 *HTML/CSS
 
 
