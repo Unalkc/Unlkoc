@@ -8,7 +8,7 @@ Some languages i have experienced
 *C
 
 
-*C
+*C#
 
 *HTML/CSS
 
