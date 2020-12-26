@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Unal
 I currently study electrical electronics engineering at Karabuk University. I always try to learn new languages to improve myself 
 
-Skills: C# / Python / C / HTML&CSS
+Skills: C# / Python / C / HTML&CSS / C++
 
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me: unlkc.dev@gmail.com 
