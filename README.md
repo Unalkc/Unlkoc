@@ -11,5 +11,8 @@ Skills: C# / Python / C / HTML&CSS / C++
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unlkoc)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Unlkoc&show_icons=true)  
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
 
