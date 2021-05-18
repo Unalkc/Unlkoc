@@ -11,7 +11,7 @@ Skills: C# / Python / C / HTML&CSS / C++
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unlkoc)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="right" alt="GIF" src="https://github.com/Unlkoc/Unlkoc/blob/main/code.gif=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Unlkoc&show_icons=true)  
